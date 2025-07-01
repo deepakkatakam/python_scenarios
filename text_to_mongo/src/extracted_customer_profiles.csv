@@ -1,0 +1,11 @@
+project_id,project_name,client,domain,location,technologies,project_manager,start_date,end_date,status
+HCLPJT001,Digital Banking App,ABC Bank,Banking,London,"['React', 'Node.js', 'MongoDB', 'AWS']",Arun Sharma,2024-01-10,2024-11-30,In Progress
+HCLPJT002,SAP Migration,Global Manufacturing Ltd,Manufacturing,Germany,"['SAP S/4HANA', 'ABAP', 'BTP']",Priya Mehta,2023-08-01,2024-06-30,In Progress
+HCLPJT003,E-commerce Revamp,TrendyFashions,Retail,New York,"['Angular', 'Spring Boot', 'Oracle DB']",Ravi Kumar,2023-11-20,2024-09-15,In Progress
+HCLPJT004,IoT Smart Devices,SmartHome Inc.,IoT,San Francisco,"['Python', 'AWS IoT', 'MQTT', 'Raspberry Pi']",Neha Agarwal,2022-10-15,2023-12-31,Completed
+HCLPJT005,Cybersecurity Audit,SecurePay,Finance,Singapore,"['Splunk', 'Wireshark', 'Kali Linux']",Mohit Verma,2024-02-01,2024-08-15,Planned
+HCLPJT006,AI Chatbot for Insurance,SureLife Insurance,Insurance,Sydney,"['Python', 'Dialogflow', 'OpenAI API', 'Flask']",Aarti Raj,2024-03-01,2024-12-01,In Progress
+HCLPJT007,Data Lake for Retail Analytics,RetailMart,Retail,Toronto,"['Azure Data Lake', 'PySpark', 'Databricks']",Sandeep Nair,2023-09-10,2024-09-10,In Progress
+HCLPJT008,Legacy App Modernization,OldSoft Solutions,Technology,Chennai,"['Java', 'Kubernetes', 'Docker', 'PostgreSQL']",Kavya Iyer,2023-06-01,2024-04-01,In Progress
+HCLPJT009,Cloud Cost Optimization,EcoInfra,Infrastructure,Dubai,"['Terraform', 'AWS Cost Explorer', 'Ansible']",Manoj Joshi,2024-04-10,2024-10-31,Planned
+HCLPJT010,Employee Portal Redesign,HCL Internal,HR Tech,Noida,"['Next.js', 'GraphQL', 'MySQL']",Sneha Kapoor,2024-01-15,2024-07-15,In Progress
